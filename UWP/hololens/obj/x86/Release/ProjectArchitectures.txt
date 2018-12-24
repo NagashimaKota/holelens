@@ -1,0 +1,1 @@
+C:\Users\kokuto\Desktop\Unity\hololens\UWP\hololens\hololens.csproj;x86
